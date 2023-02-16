@@ -10,6 +10,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "eTicaret.API", "eTicaret.AP
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "eTicaret.Web", "eTicaret.Web\eTicaret.Web.csproj", "{FE0F3D5D-5932-46D9-8197-78E4F809D1F1}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "eTicaret.Caching", "eTicaret.Caching\eTicaret.Caching.csproj", "{60C206C0-B4CE-4D4E-8552-03DFE9EF7CB4}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -36,5 +38,9 @@ Global
 		{FE0F3D5D-5932-46D9-8197-78E4F809D1F1}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{FE0F3D5D-5932-46D9-8197-78E4F809D1F1}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{FE0F3D5D-5932-46D9-8197-78E4F809D1F1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{60C206C0-B4CE-4D4E-8552-03DFE9EF7CB4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{60C206C0-B4CE-4D4E-8552-03DFE9EF7CB4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{60C206C0-B4CE-4D4E-8552-03DFE9EF7CB4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{60C206C0-B4CE-4D4E-8552-03DFE9EF7CB4}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal

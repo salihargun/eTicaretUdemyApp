@@ -1,11 +1,66 @@
 {
   "version": 3,
   "targets": {
-    "net6.0": {}
+    "net6.0": {
+      "eTicaret.Core/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "compile": {
+          "bin/placeholder/eTicaret.Core.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/eTicaret.Core.dll": {}
+        }
+      },
+      "eTicaret.Repository/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "dependencies": {
+          "eTicaret.Core": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/eTicaret.Repository.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/eTicaret.Repository.dll": {}
+        }
+      },
+      "eTicaret.Service/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "dependencies": {
+          "eTicaret.Repository": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/eTicaret.Service.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/eTicaret.Service.dll": {}
+        }
+      }
+    }
   },
-  "libraries": {},
+  "libraries": {
+    "eTicaret.Core/1.0.0": {
+      "type": "project",
+      "path": "../eTicaret.Core/eTicaret.Core.csproj",
+      "msbuildProject": "../eTicaret.Core/eTicaret.Core.csproj"
+    },
+    "eTicaret.Repository/1.0.0": {
+      "type": "project",
+      "path": "../eTicaret.Repository/eTicaret.Repository.csproj",
+      "msbuildProject": "../eTicaret.Repository/eTicaret.Repository.csproj"
+    },
+    "eTicaret.Service/1.0.0": {
+      "type": "project",
+      "path": "../eTicaret.Service/eTicaret.Service.csproj",
+      "msbuildProject": "../eTicaret.Service/eTicaret.Service.csproj"
+    }
+  },
   "projectFileDependencyGroups": {
-    "net6.0": []
+    "net6.0": [
+      "eTicaret.Service >= 1.0.0"
+    ]
   },
   "packageFolders": {
     "/Users/salihargun/.nuget/packages/": {}
@@ -31,7 +86,11 @@
       "frameworks": {
         "net6.0": {
           "targetAlias": "net6.0",
-          "projectReferences": {}
+          "projectReferences": {
+            "/Users/salihargun/Projects/eTicaretUdemyApp/eTicaret.Service/eTicaret.Service.csproj": {
+              "projectPath": "/Users/salihargun/Projects/eTicaretUdemyApp/eTicaret.Service/eTicaret.Service.csproj"
+            }
+          }
         }
       },
       "warningProperties": {
