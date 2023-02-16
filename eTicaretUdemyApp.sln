@@ -1,0 +1,40 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "eTicaret.Core", "eTicaret.Core\eTicaret.Core.csproj", "{ECDA2417-2A04-450C-B096-908487472228}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "eTicaret.Repository", "eTicaret.Repository\eTicaret.Repository.csproj", "{B28AB9D5-4755-4CA4-B75C-03CFA76DED72}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "eTicaret.Service", "eTicaret.Service\eTicaret.Service.csproj", "{95948EBA-42F0-4329-887C-3826B47FF996}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "eTicaret.API", "eTicaret.API\eTicaret.API.csproj", "{B41B2AA2-68F4-48E6-8746-255618B725B2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "eTicaret.Web", "eTicaret.Web\eTicaret.Web.csproj", "{FE0F3D5D-5932-46D9-8197-78E4F809D1F1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{ECDA2417-2A04-450C-B096-908487472228}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ECDA2417-2A04-450C-B096-908487472228}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ECDA2417-2A04-450C-B096-908487472228}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ECDA2417-2A04-450C-B096-908487472228}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B28AB9D5-4755-4CA4-B75C-03CFA76DED72}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B28AB9D5-4755-4CA4-B75C-03CFA76DED72}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B28AB9D5-4755-4CA4-B75C-03CFA76DED72}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B28AB9D5-4755-4CA4-B75C-03CFA76DED72}.Release|Any CPU.Build.0 = Release|Any CPU
+		{95948EBA-42F0-4329-887C-3826B47FF996}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{95948EBA-42F0-4329-887C-3826B47FF996}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{95948EBA-42F0-4329-887C-3826B47FF996}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{95948EBA-42F0-4329-887C-3826B47FF996}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B41B2AA2-68F4-48E6-8746-255618B725B2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B41B2AA2-68F4-48E6-8746-255618B725B2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B41B2AA2-68F4-48E6-8746-255618B725B2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B41B2AA2-68F4-48E6-8746-255618B725B2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FE0F3D5D-5932-46D9-8197-78E4F809D1F1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FE0F3D5D-5932-46D9-8197-78E4F809D1F1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FE0F3D5D-5932-46D9-8197-78E4F809D1F1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FE0F3D5D-5932-46D9-8197-78E4F809D1F1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
