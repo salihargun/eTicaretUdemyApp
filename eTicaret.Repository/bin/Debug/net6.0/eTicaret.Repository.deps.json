@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "eTicaret.Repository/1.0.0": {
+        "dependencies": {
+          "eTicaret.Core": "1.0.0"
+        },
+        "runtime": {
+          "eTicaret.Repository.dll": {}
+        }
+      },
+      "eTicaret.Core/1.0.0": {
+        "runtime": {
+          "eTicaret.Core.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "eTicaret.Repository/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "eTicaret.Core/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

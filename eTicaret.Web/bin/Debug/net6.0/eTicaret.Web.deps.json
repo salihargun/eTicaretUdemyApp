@@ -1,0 +1,62 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "eTicaret.Web/1.0.0": {
+        "dependencies": {
+          "eTicaret.Service": "1.0.0"
+        },
+        "runtime": {
+          "eTicaret.Web.dll": {}
+        }
+      },
+      "eTicaret.Core/1.0.0": {
+        "runtime": {
+          "eTicaret.Core.dll": {}
+        }
+      },
+      "eTicaret.Repository/1.0.0": {
+        "dependencies": {
+          "eTicaret.Core": "1.0.0"
+        },
+        "runtime": {
+          "eTicaret.Repository.dll": {}
+        }
+      },
+      "eTicaret.Service/1.0.0": {
+        "dependencies": {
+          "eTicaret.Repository": "1.0.0"
+        },
+        "runtime": {
+          "eTicaret.Service.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "eTicaret.Web/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "eTicaret.Core/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "eTicaret.Repository/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "eTicaret.Service/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

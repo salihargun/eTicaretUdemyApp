@@ -1,0 +1,17 @@
+/Users/salihargun/Projects/eTicaretUdemyApp/eTicaret.Service/bin/Debug/net6.0/eTicaret.Service.deps.json
+/Users/salihargun/Projects/eTicaretUdemyApp/eTicaret.Service/bin/Debug/net6.0/eTicaret.Service.dll
+/Users/salihargun/Projects/eTicaretUdemyApp/eTicaret.Service/bin/Debug/net6.0/eTicaret.Service.pdb
+/Users/salihargun/Projects/eTicaretUdemyApp/eTicaret.Service/bin/Debug/net6.0/eTicaret.Core.dll
+/Users/salihargun/Projects/eTicaretUdemyApp/eTicaret.Service/bin/Debug/net6.0/eTicaret.Repository.dll
+/Users/salihargun/Projects/eTicaretUdemyApp/eTicaret.Service/bin/Debug/net6.0/eTicaret.Repository.pdb
+/Users/salihargun/Projects/eTicaretUdemyApp/eTicaret.Service/bin/Debug/net6.0/eTicaret.Core.pdb
+/Users/salihargun/Projects/eTicaretUdemyApp/eTicaret.Service/obj/Debug/net6.0/eTicaret.Service.csproj.AssemblyReference.cache
+/Users/salihargun/Projects/eTicaretUdemyApp/eTicaret.Service/obj/Debug/net6.0/eTicaret.Service.GeneratedMSBuildEditorConfig.editorconfig
+/Users/salihargun/Projects/eTicaretUdemyApp/eTicaret.Service/obj/Debug/net6.0/eTicaret.Service.AssemblyInfoInputs.cache
+/Users/salihargun/Projects/eTicaretUdemyApp/eTicaret.Service/obj/Debug/net6.0/eTicaret.Service.AssemblyInfo.cs
+/Users/salihargun/Projects/eTicaretUdemyApp/eTicaret.Service/obj/Debug/net6.0/eTicaret.Service.csproj.CoreCompileInputs.cache
+/Users/salihargun/Projects/eTicaretUdemyApp/eTicaret.Service/obj/Debug/net6.0/eTicaret.Service.csproj.CopyComplete
+/Users/salihargun/Projects/eTicaretUdemyApp/eTicaret.Service/obj/Debug/net6.0/eTicaret.Service.dll
+/Users/salihargun/Projects/eTicaretUdemyApp/eTicaret.Service/obj/Debug/net6.0/refint/eTicaret.Service.dll
+/Users/salihargun/Projects/eTicaretUdemyApp/eTicaret.Service/obj/Debug/net6.0/eTicaret.Service.pdb
+/Users/salihargun/Projects/eTicaretUdemyApp/eTicaret.Service/obj/Debug/net6.0/ref/eTicaret.Service.dll

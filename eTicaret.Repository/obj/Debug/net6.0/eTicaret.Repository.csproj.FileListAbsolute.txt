@@ -1,0 +1,15 @@
+/Users/salihargun/Projects/eTicaretUdemyApp/eTicaret.Repository/bin/Debug/net6.0/eTicaret.Repository.deps.json
+/Users/salihargun/Projects/eTicaretUdemyApp/eTicaret.Repository/bin/Debug/net6.0/eTicaret.Repository.dll
+/Users/salihargun/Projects/eTicaretUdemyApp/eTicaret.Repository/bin/Debug/net6.0/eTicaret.Repository.pdb
+/Users/salihargun/Projects/eTicaretUdemyApp/eTicaret.Repository/bin/Debug/net6.0/eTicaret.Core.dll
+/Users/salihargun/Projects/eTicaretUdemyApp/eTicaret.Repository/bin/Debug/net6.0/eTicaret.Core.pdb
+/Users/salihargun/Projects/eTicaretUdemyApp/eTicaret.Repository/obj/Debug/net6.0/eTicaret.Repository.csproj.AssemblyReference.cache
+/Users/salihargun/Projects/eTicaretUdemyApp/eTicaret.Repository/obj/Debug/net6.0/eTicaret.Repository.GeneratedMSBuildEditorConfig.editorconfig
+/Users/salihargun/Projects/eTicaretUdemyApp/eTicaret.Repository/obj/Debug/net6.0/eTicaret.Repository.AssemblyInfoInputs.cache
+/Users/salihargun/Projects/eTicaretUdemyApp/eTicaret.Repository/obj/Debug/net6.0/eTicaret.Repository.AssemblyInfo.cs
+/Users/salihargun/Projects/eTicaretUdemyApp/eTicaret.Repository/obj/Debug/net6.0/eTicaret.Repository.csproj.CoreCompileInputs.cache
+/Users/salihargun/Projects/eTicaretUdemyApp/eTicaret.Repository/obj/Debug/net6.0/eTicaret.Repository.csproj.CopyComplete
+/Users/salihargun/Projects/eTicaretUdemyApp/eTicaret.Repository/obj/Debug/net6.0/eTicaret.Repository.dll
+/Users/salihargun/Projects/eTicaretUdemyApp/eTicaret.Repository/obj/Debug/net6.0/refint/eTicaret.Repository.dll
+/Users/salihargun/Projects/eTicaretUdemyApp/eTicaret.Repository/obj/Debug/net6.0/eTicaret.Repository.pdb
+/Users/salihargun/Projects/eTicaretUdemyApp/eTicaret.Repository/obj/Debug/net6.0/ref/eTicaret.Repository.dll
