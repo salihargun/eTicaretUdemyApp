@@ -22,6 +22,25 @@ public class AddDbContext : DbContext
     {
 
         modelBuilder.ApplyConfigurationsFromAssembly(Assembly.GetExecutingAssembly());
+        modelBuilder.Entity<ProductFeature>().HasData(
+            new ProductFeature()
+        {
+            Id = 1,
+            Color = "Mavi",
+            Height = 22,
+            Width = 33,
+            ProductId = 1
+            
+        },
+            new ProductFeature()
+            {
+            Id = 2,
+            Color = "Saarıı",
+            Height = 22,
+            Width = 33,
+            ProductId = 2
+        });
+        
         base.OnModelCreating(modelBuilder);
     }
 }
